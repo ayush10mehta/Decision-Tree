@@ -3,5 +3,4 @@
 Prediction
 # [Project 1](https://github.com/ayush10mehta/Decision-Tree/blob/main/Deployment2.ipynb)
 
-Inline-style: 
-![alt text](https://github.com/ayush10mehta/Decision-Tree/blob/main/repository-open-graph-template.png)
+ ![alt text](https://github.com/ayush10mehta/Decision-Tree/blob/main/repository-open-graph-template.png)
